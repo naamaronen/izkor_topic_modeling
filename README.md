@@ -1,5 +1,7 @@
 # izkor topic modeling
 
+אתר הפרויקט - https://naamar30.wixsite.com/izkor-topic-modeling
+
 מטרת הפרויקט:
 
 בפרויקט זה נחקור את הנושאים המרכזיים המצוינים בכתבי היזכור של משפחות הנופלים.
